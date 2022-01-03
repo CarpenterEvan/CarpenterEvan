@@ -1,5 +1,5 @@
-- Hi, I’m @CarpenterEvan
-- I’m interested in Python, LaTeX, and Physics!
+- Hi, I’m Evan Carpenter
+- I’m interested in Python, LaTeX, LabVIEW and Physics!
 - 🌱 I’m currently learning Physics, mathematics, and chemistry!
 - I only really know python basics, the workings of github/all the other professional stuff is a bit beyond me at the moment :)
 
