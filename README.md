@@ -1,7 +1,6 @@
-- Hi, I’m Evan Carpenter
-- I’m interested in Python, LaTeX, LabVIEW and Physics!
-- 🌱 I’m currently learning Physics, mathematics, and chemistry!
-- I only really know python basics, the workings of github/all the other professional stuff is a bit beyond me at the moment :)
+- Hi, I’m Evan!
+- I’m currently learning Physics, Mathematics, and Chemistry at the University of Michigan. 
+- I only really know Python, LabVIEW, and LaTeX basics :)
 
 <!---
 CarpenterEvan/CarpenterEvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
