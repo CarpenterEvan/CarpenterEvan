@@ -3,7 +3,7 @@
 - I majored in ✨**Physics**✨, and had minors in **Chemistry**, and **Mathematics**.
 - I'm currently working in the UM ATLAS group doing Quality Assurance for chamber production. 
 - I'm familiar with **Python, LabVIEW,** and **LaTeX**. I'm slowly learning **ROOT** for work in high energy physics. :)
-- My favorite shape is a Trapezoid. 
+- My favorite shape is a trapezoid. 
 
 <!---
 CarpenterEvan/CarpenterEvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
