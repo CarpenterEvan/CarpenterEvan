@@ -1,7 +1,7 @@
 # Hi, I’m Evan!
 - I graduated from the University of Michigan in April 2022. 
 - I majored in ✨**Physics**✨, and had minors in **Chemistry**, and **Mathematics**.
-- I'm currently working in the UM ATLAS group doing Quality Assurance for chamber production. 
+- I'm currently A PhD. Candidate at UMich working in the UM ATLAS group. 
 - I'm familiar with **Python, LabVIEW,** and **LaTeX**. I'm slowly learning **ROOT** for work in high energy physics. :)
 - My favorite shape is a trapezoid. 
 
